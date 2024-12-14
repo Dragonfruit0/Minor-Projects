@@ -1,4 +1,3 @@
-pip install -r requirements.txt
 from transformers import pipeline
 import cv2
 import numpy as np
